@@ -2,4 +2,4 @@
 Algorithm Design Implementations Using Two Languages, Java and C++.
 
 
-* [Resume](https://github.com/FarisAlotibi/MSIS/blob/master/Client%20Server%20Services/Resume%20For%20Intern%202021%20v3_L_F.pdf)
+* [Resume](https://github.com/FarisAlotibi/Algorithm-Design/blob/master/Resume%20For%20Intern%202021%20v3_L_Sec.pdf)
